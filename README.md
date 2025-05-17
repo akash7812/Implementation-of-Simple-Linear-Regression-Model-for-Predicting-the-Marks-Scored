@@ -76,9 +76,11 @@ print("Root Mean Square Error = ",rmse)
 
 ## Output:
 Head:
+
 ![output](./head_ouput.png)
 
 Tail:
+
 ![output](./tail_output.png)
 
 Array value of x:
@@ -92,6 +94,7 @@ Array value of y:
 
 
 Y prediction:
+
 ![output](./y_pred.png)
 
 
